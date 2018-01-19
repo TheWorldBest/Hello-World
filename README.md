@@ -4,4 +4,4 @@
 - feature-A
 - feature-C
 - feature-D
-- fatrue-E
+- featrue-E
